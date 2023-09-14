@@ -26,4 +26,6 @@ For each offline apply the patch file to a freshly cloned repository.
 
 ##xv6 Scheduling
 ### offline
-(https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/blob/main/xv6_Scheduling/offline/_CSE-314--assignment-03.pdf)
+[**problem specification**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/blob/main/xv6_Scheduling/offline/_CSE-314--assignment-03.pdf)
+
+[**solution**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/blob/main/xv6_Scheduling/offline/1905088.patch)
