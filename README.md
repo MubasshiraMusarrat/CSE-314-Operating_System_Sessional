@@ -24,8 +24,15 @@ For each offline apply the patch file to a freshly cloned repository.
 
 [**solution**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/blob/main/xv6_System_Call/1905088.patch) 
 
-##xv6 Scheduling
+## xv6 Scheduling
 ### offline
 [**problem specification**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/blob/main/xv6_Scheduling/offline/_CSE-314--assignment-03.pdf)
 
 [**solution**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/blob/main/xv6_Scheduling/offline/1905088.patch)
+
+
+## IPC
+### offline
+[**problem specification**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/blob/main/IPC/offline/IPC%20Offline.pdf)
+
+[**solution**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/blob/main/IPC/offline/1905088.cpp)
