@@ -22,6 +22,4 @@ The .sh file has to be in the 'Workspace' folder to generate proper results. The
 ### offline
 [**problem specification**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/blob/main/xv6_System_Call/Offline-2-spec.pdf)
 
-[**solution**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/blob/main/xv6_System_Call/1905088.patch)
-
-Apply the patch file to a freshly cloned repository.
+[**solution**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/blob/main/xv6_System_Call/1905088.patch) Apply the patch file to a freshly cloned repository.
