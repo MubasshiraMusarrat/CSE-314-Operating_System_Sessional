@@ -42,3 +42,7 @@ For each offline apply the patch file to a freshly cloned repository.
 [**problem specification**](https://github.com/vodro/January2023/blob/main/CSE314/threading/threading_specification.md)
 
 [**solution**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/blob/main/xv6_Threading/1905088.patch)
+
+
+## xv6 Memory Management
+[**problem specification**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/blob/main/xv6_Memory_Management/Offline%206_%20xv6%20Memory%20Management.pdf)
