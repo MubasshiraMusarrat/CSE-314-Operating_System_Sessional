@@ -10,4 +10,10 @@ This repository comprises a collection of offline materials that encompass the u
 The .sh file has to be in the 'Workspace' folder to generate proper results. The results are generated in the '/Match/targets' folder.
 
 ### online
-[**A1**]
+[**A1**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/tree/main/Shell_Scripting/online/A1)
+
+[**A2**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/tree/main/Shell_Scripting/online/A2)
+
+[**B1+solution**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/tree/main/Shell_Scripting/online/B1)
+
+[**B2**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/tree/main/Shell_Scripting/online/B2)
