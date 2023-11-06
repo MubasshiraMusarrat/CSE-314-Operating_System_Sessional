@@ -30,6 +30,15 @@ For each offline apply the patch file to a freshly cloned repository.
 
 [**solution**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/blob/main/xv6_Scheduling/offline/1905088.patch)
 
+### online
+**A1** : Implement priority scheduling in a third queue.
+
+[**A2**]()
+
+[**B1+solution**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/tree/main/Shell_Scripting/online/B1)
+
+[**B2**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/tree/main/Shell_Scripting/online/B2)
+
 
 ## IPC
 ### offline
