@@ -45,6 +45,14 @@ For each offline apply the patch file to a freshly cloned repository.
 
 [**solution**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/blob/main/IPC/offline/1905088.cpp)
 
+### online
+[**A1**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/blob/main/IPC/online/IPC%20Online_%20A1.pdf)
+
+[**A2**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/blob/main/IPC/online/IPC%20Online_A2.jpg)
+
+[**B1**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/blob/main/IPC/online/IPC%20Online_B1.pdf)
+
+[**B2**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/blob/main/IPC/online/IPC%20Online_B2.jpg)
 
 ## xv6 Threading
 [**problem specification**](https://github.com/vodro/January2023/blob/main/CSE314/threading/threading_specification.md)
