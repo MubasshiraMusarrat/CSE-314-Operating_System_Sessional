@@ -35,7 +35,7 @@ For each offline apply the patch file to a freshly cloned repository.
 
 [**A2**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/blob/main/xv6_Scheduling/online/CSE-314-scheduling-online-A2.pdf)
 
-**B1**: Allow negative ticket numbering in the lottery scheduling. To avoid negative probability use the ticket count as a power of 2. In xv6 integers can be upto 2^16 . So, the tickets are to numbered between -10 to +10. In case of reaching upper or lower limit reset the ticket count. 
+**B1** : Allow negative ticket numbering in the lottery scheduling. To avoid negative probability use the ticket count as a power of 2. In xv6 integers can be upto 2^16 . So, the tickets are to numbered between -10 to +10. In case of reaching upper or lower limit reset the ticket count. 
 
 [**B2**](https://github.com/MubasshiraMusarrat/CSE-314-Operating_System_Sessional/blob/main/xv6_Scheduling/online/CSE-314-scheduling-online-B2.pdf)
 
